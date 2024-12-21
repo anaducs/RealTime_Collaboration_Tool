@@ -1,0 +1,6 @@
+[submodule "SlateBackend"]
+	path = SlateBackend
+	url = https://github.com/anaducs/SlateBackend.git
+[submodule "Slate"]
+	path = Slate
+	url = https://github.com/anaducs/Slate.git
